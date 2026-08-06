@@ -3,8 +3,6 @@
 
 My name is Junhao Zhuo (卓俊豪), CS undergraduate @ ZJU 2023
 
-Find me at my [Blog](https://ffy6511.github.io/)，or contact me via [email](mailto:1253876012z@gmail.com).
-
 ## My Projects
 - 🃏 [flip](https://github.com/ffy6511/flip): A terminal quiz tool powered by skill-driven agents — turn any subject into tailored exercises with one prompt
 - 📊 [obsidian-activity-map](https://github.com/ffy6511/obsidian-activity-map): A local-first Obsidian plugin that maps focused time across files and folders with interactive charts
