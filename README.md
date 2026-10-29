@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-My name is Junhao Zhuo (卓俊豪), CS undergraduate @ ZJU 2023
+My name is Junhao Zhuo (卓俊豪), CS undergraduate @ ZJU 2023. Starting in 2027, I will be an M.S. student at the College of Artificial Intelligence in ZJU, advised by Prof. [Yongliang Shen](https://github.com/tricktreat). You can find my chain of thought shared with the world at [my blog](https://ffy6511.github.io/).
 
 ## My Projects
 - 🃏 [flip](https://github.com/ffy6511/flip): A terminal quiz tool powered by skill-driven agents — turn any subject into tailored exercises with one prompt
@@ -13,25 +13,3 @@ My name is Junhao Zhuo (卓俊豪), CS undergraduate @ ZJU 2023
 ## Contributions
 - 🤖 [Poco-agent](https://github.com/poco-ai/poco-agent): A more beautiful and easier-to-use alternative to OpenClaw with a modern Web UI, built-in IM support, and sandboxed runtime
 - 📚 [Agentero](https://github.com/poco-ai/Agentero): An agent-native literature manager — BYOA via ACP, Zotero-compatible import, PDF reading with highlight/Q&A/translation, and Obsidian-style wikilinks & knowledge graphs
-- 🎓 [Socratic-agent-generator](https://github.com/ElysiaFollower/socratic-agent-generator): Transform static lab manuals into interactive Socratic tutors using the LangChain framework
-
-## My Key Words
-Creation · Running · Photography
-
-<div align="center">
-
-  <table width="90%">
-  <tr>
-  <td align="center">
-  <img src="https://github.com/user-attachments/assets/c4f0c8b1-0f75-477f-8cd4-33d9cb78d0cd" alt="作品1" height="260">
-  </td>
-  
-  <td width="5"></td>
-  
-  <td align="center">
-  <img src="https://github.com/user-attachments/assets/783fe7fa-8ee6-43a4-b45e-ab9e8c857101" alt="作品2" height="260">
-  </td>
-  
-  </tr>
-  </table>
-</div>
